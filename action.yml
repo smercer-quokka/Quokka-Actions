@@ -1,0 +1,18 @@
+name: "Quokka MAST"
+description: "Scan your applications on Quokka's Mobile Application Security Testing Platform."
+inputs:
+  path-to-file:
+    description: "Path to the artifact file"
+    required: true
+  platform:
+    description: "Platform the app belongs to"
+    required: true
+  apiKey:
+    description: "API Key for the user"
+    required: true
+runs:
+  using: "node12"
+  main: "index.js"
+branding:
+  icon: "award"
+  color: "green"
