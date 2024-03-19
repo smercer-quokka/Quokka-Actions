@@ -1,4 +1,4 @@
-name: "Quokka"
+name: "Quokka QMAST"
 description: "Scan your applications on Quokka's Mobile Application Security Testing Platform."
 inputs:
   path-to-file:
