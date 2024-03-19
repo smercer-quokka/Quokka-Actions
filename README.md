@@ -42,7 +42,7 @@ steps:
             name: app # Name of artifact holding the app file
             path: path/to/artifact
 
-    - name: Kryptowire Analysis Submission
+    - name: Quokka Analysis Submission
         id: appSubmission
         uses: QMAST-analysis-action@master
         with:
