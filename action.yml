@@ -1,4 +1,4 @@
-name: "Quokka MAST"
+name: "Quokka -- MAST"
 description: "Scan your applications on Quokka's Mobile Application Security Testing Platform."
 inputs:
   path-to-file:
